@@ -1,0 +1,8 @@
+node_modules/
+.next/
+build-errors*.txt
+full-build-log.txt
+tsconfig.tsbuildinfo
+next-env.d.ts
+.DS_Store
+*.local
